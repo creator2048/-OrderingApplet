@@ -1,0 +1,8 @@
+<view class="contain">
+  <view class="uername"></view>
+  <view class="address">我的地址</view>
+  <view class="collection">我的收藏</view>
+  <view class="service">我的客服</view>
+  <view class="rule">用户手册</view>
+  <view class="notes">版本号：1.0.0|Build:2</view>
+</view>
